@@ -1,0 +1,7 @@
+F:\Google Drive\Schooljaar 1\Semester 2\SE12\Killer App\KillerAppLibrary\bin\Debug\netcoreapp1.1\KillerAppLibrary.deps.json
+F:\Google Drive\Schooljaar 1\Semester 2\SE12\Killer App\KillerAppLibrary\bin\Debug\netcoreapp1.1\KillerAppLibrary.dll
+F:\Google Drive\Schooljaar 1\Semester 2\SE12\Killer App\KillerAppLibrary\obj\Debug\netcoreapp1.1\KillerAppLibrary.csprojResolveAssemblyReference.cache
+F:\Google Drive\Schooljaar 1\Semester 2\SE12\Killer App\KillerAppLibrary\obj\Debug\netcoreapp1.1\KillerAppLibrary.AssemblyInfo.cs
+F:\Google Drive\Schooljaar 1\Semester 2\SE12\Killer App\KillerAppLibrary\bin\Debug\netcoreapp1.1\KillerAppLibrary.pdb
+F:\Google Drive\Schooljaar 1\Semester 2\SE12\Killer App\KillerAppLibrary\obj\Debug\netcoreapp1.1\KillerAppLibrary.dll
+F:\Google Drive\Schooljaar 1\Semester 2\SE12\Killer App\KillerAppLibrary\obj\Debug\netcoreapp1.1\KillerAppLibrary.pdb
