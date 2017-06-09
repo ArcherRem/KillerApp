@@ -4,8 +4,21 @@
     <label>
       List of Spells
     </label>
-    <select id="Spell" size="10">
-      
-    </select>
+    <table>
+      <tr>
+        <td>Name</td>
+        <td>Level</td>
+        <td>Type</td>
+        <td>Effect</td>
+        <td>Casting Time</td>
+      </tr>
+      <tr repeat.for="spell of spells">
+        <td>${spell.name}</td>
+        <td>${spell.level}</td>
+        <td>${spell.type}</td>
+        <td>${spell.effect}</td>
+        <td>${spell.castingtime}</td>
+      </tr>
+    </table>
   </fieldset>
 </template>

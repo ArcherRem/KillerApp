@@ -2,8 +2,10 @@ F:\Google Drive\Schooljaar 1\Semester 2\SE12\Killer App\KillerApp\bin\Debug\netc
 F:\Google Drive\Schooljaar 1\Semester 2\SE12\Killer App\KillerApp\bin\Debug\netcoreapp1.1\KillerApp.runtimeconfig.json
 F:\Google Drive\Schooljaar 1\Semester 2\SE12\Killer App\KillerApp\bin\Debug\netcoreapp1.1\KillerApp.runtimeconfig.dev.json
 F:\Google Drive\Schooljaar 1\Semester 2\SE12\Killer App\KillerApp\bin\Debug\netcoreapp1.1\KillerApp.dll
+F:\Google Drive\Schooljaar 1\Semester 2\SE12\Killer App\KillerApp\bin\Debug\netcoreapp1.1\KillerApp.pdb
+F:\Google Drive\Schooljaar 1\Semester 2\SE12\Killer App\KillerApp\bin\Debug\netcoreapp1.1\KillerAppLibrary.dll
+F:\Google Drive\Schooljaar 1\Semester 2\SE12\Killer App\KillerApp\bin\Debug\netcoreapp1.1\KillerAppLibrary.pdb
 F:\Google Drive\Schooljaar 1\Semester 2\SE12\Killer App\KillerApp\obj\Debug\netcoreapp1.1\KillerApp.csprojResolveAssemblyReference.cache
 F:\Google Drive\Schooljaar 1\Semester 2\SE12\Killer App\KillerApp\obj\Debug\netcoreapp1.1\KillerApp.AssemblyInfo.cs
-F:\Google Drive\Schooljaar 1\Semester 2\SE12\Killer App\KillerApp\bin\Debug\netcoreapp1.1\KillerApp.pdb
 F:\Google Drive\Schooljaar 1\Semester 2\SE12\Killer App\KillerApp\obj\Debug\netcoreapp1.1\KillerApp.dll
 F:\Google Drive\Schooljaar 1\Semester 2\SE12\Killer App\KillerApp\obj\Debug\netcoreapp1.1\KillerApp.pdb
